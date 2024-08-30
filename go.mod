@@ -1,4 +1,4 @@
-module github.com/obsidiandynamics/goneli
+module github.com/jan-carreras/goneli
 
 go 1.14
 
